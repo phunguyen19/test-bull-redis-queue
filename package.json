@@ -1,0 +1,20 @@
+{
+  "name": "test-redis-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@bull-board/api": "^4.3.2",
+    "@bull-board/express": "^4.3.2",
+    "bull": "^4.10.0",
+    "debug": "^4.3.4",
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.6.3",
+    "sleep-promise": "^9.1.0",
+    "uuid": "^9.0.0"
+  }
+}
